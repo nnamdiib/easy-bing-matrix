@@ -1,0 +1,4 @@
+*.pyc
+keys.txt
+state.txt
+secrets.py
