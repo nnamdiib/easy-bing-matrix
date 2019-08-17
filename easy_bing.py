@@ -7,7 +7,7 @@ import requests
 
 BASE_URL = 'https://dev.virtualearth.net/REST/v1/Routes/DistanceMatrix'
 
-COORD_FILE = 'CentroidsTotal.txt'  # The main coordinate input
+COORD_FILE = 'sample-input.txt'  # The main coordinate input
 TIME_FILE = 'times.txt'  # Specifies the times of the day you need data for. 
 API_KEY_FILE = 'keys.txt'  # This file holds your API keys.
 PROGRAM_SAVED_STATE = 'state.txt'  # This file saves the program state so it can resume later.

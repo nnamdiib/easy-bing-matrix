@@ -3,10 +3,8 @@
 						 Each line should be <id> <lat> <lon>
 						 Example: 1  23.5667 24.567767
 
-2. times.txt --> This file should list out all the times you want need data for.
-				 Example: 8:00AM
-				 		  6:00PM
-				 		  10:00AM
+2. times.txt --> This file should list out all the times you want in 24 hour format.
+				 Example: 20:00
 
 3. keys.txt --> This file should contain each Bing API key on a new line.
 
